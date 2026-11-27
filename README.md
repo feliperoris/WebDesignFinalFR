@@ -37,3 +37,13 @@ WebDesignAulasRep/
 ```
 
 ---
+## 🛠️ Ferramentas e Recursos
+
+A disciplina poderá utilizar diferentes ferramentas de apoio ao desenvolvimento, tais como:
+
+| Categoria | Exemplos |
+|:---|:---|
+| 💻 Usado pra programar | VS Code |
+| 📦 Versionamento | Git |
+| ☁️ Hospedagem | GitHub, Vercel |
+| 📖 Documentação | Referências técnicas oficiais |  
