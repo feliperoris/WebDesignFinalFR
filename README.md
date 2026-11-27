@@ -3,9 +3,11 @@ Repositório Final de Web Design 2026  Felipe Roris Fontes
 Aqui será anexado todos os arquivos e documentos que foram realizados durante o semestre de WebDesign.  
 
 
-📂Organização do Repositório.
-├── Arara&Brasa/            # Arquivos principais do projeto
-├── Aula 1/ Slides                 # Material e exercícios da aula 1  
+📂Organização do Repositório.  
+
+├── Arara&Brasa/            # Arquivos principais do projeto  
+
+├── Aula 1/ Slides                 # Material e exercícios da aula 1    
 
 ├── Aula 2/   
 
